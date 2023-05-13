@@ -1,3 +1,4 @@
+![logo](https://github.com/coder-megha242/coder-megha242/blob/main/Front-End%20Developer%20(2).png)
 <h1 align="center">Hi 👋, I'm Megha Bhutada</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
